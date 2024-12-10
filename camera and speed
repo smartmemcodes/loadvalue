@@ -1,0 +1,10 @@
+{
+  "set1": {
+    "searchCode": "searchCode1",
+    "replaceCode": "replaceCode1"
+  },
+  "set2": {
+    "searchCode": "searchCode2",
+    "replaceCode": "replaceCode2"
+  }
+}
